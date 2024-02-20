@@ -1,0 +1,12 @@
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\bin\Debug\Temel_Arac_Kullanimi_2.exe.config
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\bin\Debug\Temel_Arac_Kullanimi_2.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\bin\Debug\Temel_Arac_Kullanimi_2.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.Form1.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.Form2.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Temel_Arac_Kullanimi_2\Temel_Arac_Kullanimi_2\obj\Debug\Temel_Arac_Kullanimi_2.Form3.resources
