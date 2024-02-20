@@ -1,0 +1,12 @@
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\bin\Debug\Formlar_Arasi_Gecis_Islemleri.exe.config
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\bin\Debug\Formlar_Arasi_Gecis_Islemleri.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\bin\Debug\Formlar_Arasi_Gecis_Islemleri.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.Form1.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.Form2.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Formlar_Arasi_Gecis_Islemleri\Formlar_Arasi_Gecis_Islemleri\obj\Debug\Formlar_Arasi_Gecis_Islemleri.Form3.resources

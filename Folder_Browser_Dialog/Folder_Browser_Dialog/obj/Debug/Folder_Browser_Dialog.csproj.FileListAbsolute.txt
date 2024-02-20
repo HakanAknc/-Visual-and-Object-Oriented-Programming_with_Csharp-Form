@@ -1,0 +1,10 @@
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\bin\Debug\Folder_Browser_Dialog.exe.config
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\bin\Debug\Folder_Browser_Dialog.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\bin\Debug\Folder_Browser_Dialog.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\obj\Debug\Folder_Browser_Dialog.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\obj\Debug\Folder_Browser_Dialog.Form1.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\obj\Debug\Folder_Browser_Dialog.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\obj\Debug\Folder_Browser_Dialog.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\obj\Debug\Folder_Browser_Dialog.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\obj\Debug\Folder_Browser_Dialog.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Folder_Browser_Dialog\Folder_Browser_Dialog\obj\Debug\Folder_Browser_Dialog.pdb

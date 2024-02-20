@@ -1,0 +1,10 @@
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\bin\Debug\FrmUrunUygulamasi.exe.config
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\bin\Debug\FrmUrunUygulamasi.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\bin\Debug\FrmUrunUygulamasi.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\obj\Debug\FrmUrunUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\obj\Debug\FrmUrunUygulamasi.Form1.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\obj\Debug\FrmUrunUygulamasi.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\obj\Debug\FrmUrunUygulamasi.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\obj\Debug\FrmUrunUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\obj\Debug\FrmUrunUygulamasi.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\FrmUrunUygulamasi\FrmUrunUygulamasi\obj\Debug\FrmUrunUygulamasi.pdb
